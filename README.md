@@ -1,12 +1,12 @@
 # Data Science Tools and Ecosystem
 ## In this notebook, Data Science Tools and Ecosystem are summarized.
- **Objectives:**
+**Objectives:**
  + Python
  + SQL
  + R
  + Julia
  + JavaScript
- # Some of the popular languages that Data Scientists use are:
+# Some of the popular languages that Data Scientists use are:
 ## 1.Python
 ## 2.SQL
 ## 3.R 
@@ -34,6 +34,7 @@
 #This a simple arithmetic expression to mutiply then add integers
 (3*4)+5
 17
+
 #This will convert 200 minutes to hours by diving by 60
 (200/60)
 3.3333333333333335
